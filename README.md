@@ -9,5 +9,7 @@
 
 ### 5. structs :heavy_check_mark:
 
+### 6. pointers :heavy_check_mark:
+
 
 
