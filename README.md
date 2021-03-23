@@ -14,5 +14,7 @@
 
 ### 6. pointers :heavy_check_mark:
 
+### 7. maps :heavy_check_mark:
+
 
 
