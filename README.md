@@ -16,5 +16,11 @@
 
 ### 7. maps :heavy_check_mark:
 
+### 8. di :heavy_check_mark:
+
+### 9. mocking :heavy_check_mark:
+
+### 10. concurrency :heavy_check_mark:
+
 
 
