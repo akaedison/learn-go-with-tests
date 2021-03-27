@@ -1,4 +1,4 @@
-package di
+package main
 
 //replace package di to main when you run this
 import (
