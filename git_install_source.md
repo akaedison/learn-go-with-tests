@@ -1,6 +1,13 @@
 
 
-git 源码安装
+### git 源码安装
+#### 重要：
+
+````sh
+yum install libcurl-devel
+````
+
+安装之前先安装这个，否则https 不能用
 
 ##### 1. 下载源码
 
